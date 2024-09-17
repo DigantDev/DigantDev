@@ -5,11 +5,17 @@ Experienced in building robust, scalable, and high-performance cloud-native appl
 💻 Skills:
 
 Languages: Java
+
 Frameworks: Spring Boot, Spring Cloud
+
 Cloud Platforms: AWS
+
 DevOps: Docker, Kubernetes, Jenkins
+
 Disributed Technology: Apache Kafka
+
 Databases: MySQL, MongoDB
+
 Tools: Git, Maven, REST APIs
 
 👨‍💻 Open Source Enthusiast: Contributing to projects that drive cloud-native adoption and developer productivity.
